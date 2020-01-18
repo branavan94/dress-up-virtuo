@@ -1,0 +1,29 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
+}
+
+section {
+  padding: 150px 0;
+}
+img{
+	opacity : 0.7;
+}
+ .computing{
+background-image: url("C:/Users/brano/Desktop/4A/S8/Web Application Architectures/TD 2/dress-up-virtuo/public/background2.jpg");
+background-repeat: no-repeat;
+opacity : 0.6;
+}
+.car{
+	width : 50%;
+}
+.row-center{
+	width:70%;
+}
+input, .actor{
+	color:#FFF8DC;
+}
